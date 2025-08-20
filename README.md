@@ -6,13 +6,13 @@ GitHub is a versioning platform for code and is an excellent place for team memb
 Nowadays journals love _public_ and _open source_ code so that other researchers can replicate work. GitHub will allow us to freely host this code and create a permanent link for future reference and publications.
 
 ## Additional Guides
-  1. Creating a GitHub account
+  1. Creating a GitHub account (`GitAccount.md`)
      - This guide will show new users how to create a GitHub account and are added to the ARCWest-ADS organisation.
-  3. Storing and depositing code
+  3. Storing and depositing code (`GitHubFunctinoality.md`)
      - This guide will outline the basic functionality of the GitHub wedbsite: Creating, editing and cloning repositories.
-  5. Advanced command line Git
+  5. Advanced command line Git (`AdvanvedGit.md`)
      - How we use the command line interface to interact with the ARCWest-ADS organisations repo.
-  7. Rstudio Git intergration
+  7. Rstudio Git intergration (`GitRstudio.md`)
      - For those using Rstudio who want to push and pull code all from the confort of Rstudio.
-  9. Stata Git integration
+  9. Stata Git integration (`GitStata.md`)
      - For those using Stata who want to push and pull code all from the confort of STATA.
