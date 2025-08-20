@@ -13,6 +13,6 @@ Nowadays journals love _public_ and _open source_ code so that other researchers
   5. Advanced command line Git (`AdvanvedGit.md`)
      - How we use the command line interface to interact with the ARCWest-ADS organisations repo.
   7. Rstudio Git intergration (`GitRstudio.md`)
-     - For those using Rstudio who want to push and pull code all from the confort of Rstudio.
+     - For those using Rstudio who want to push and pull code all from the comfort of Rstudio.
   9. Stata Git integration (`GitStata.md`)
-     - For those using Stata who want to push and pull code all from the confort of STATA.
+     - For those using Stata who want to push and pull code all from the comfort of STATA.
