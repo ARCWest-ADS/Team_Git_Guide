@@ -9,7 +9,7 @@ Nowadays journals love _public_ and _open source_ code so that other researchers
   1. Creating a GitHub account
      - This guide will show new users how to create a GitHub account and are added to the ARCWest-ADS organisation.
   3. Storing and depositing code
-     - This guide will outline the basic functionality of the GitHub wedbsite: Creating, editing and clonong repositories.
+     - This guide will outline the basic functionality of the GitHub wedbsite: Creating, editing and cloning repositories.
   5. Advanced command line Git
      - How we use the command line interface to interact with the ARCWest-ADS organisations repo.
   7. Rstudio Git intergration
